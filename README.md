@@ -1,0 +1,2 @@
+# jibi
+project from scrutch
